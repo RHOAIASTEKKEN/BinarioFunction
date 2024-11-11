@@ -2,7 +2,8 @@
 
 Un convertidor de datos a binario construido con React que permite convertir texto, audio y documentos a su representación binaria. El proyecto utiliza una interfaz moderna y profesional, implementada con Tailwind CSS a través de CDN.
 
-![Binary Converter Preview](https://via.placeholder.com/800x400?text=Binary+Converter)
+![image](https://github.com/user-attachments/assets/47b191d1-1e12-4eb7-984f-e436986921a6)
+
 
 ## 🚀 Características
 
